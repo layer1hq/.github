@@ -28,7 +28,7 @@ LAYER1 is an organization dedicated to simplifying and powering the future of We
 
 - **Documentation:** Coming soon! We’ll provide detailed guides and API references as Chainsync approaches launch.
 - **Website:** [app.chainsync.in](https://app.chainsync.in)
-- **Contact:** For questions or collaboration, open an issue or reach out at [LAYER1](layer1hq@gmail.com)
+- **Contact:** For questions or collaboration, open an issue or reach out at **layer1hq@gmail.com**
 
 ---
 
