@@ -16,14 +16,6 @@ LAYER1 is an organization dedicated to simplifying and powering the future of We
 
 ---
 
-### 🌈 How can you get involved?
-
-- **Contribute:** We welcome contributions from developers, data scientists, and blockchain enthusiasts. Check our issues for ways to help, or suggest new features and improvements.
-- **Community:** Join our community discussions, share your feedback, and help shape the future of on-chain data!
-- **Stay Updated:** Watch this repo for updates as we roll out Chainsync and other LAYER1 projects.
-
----
-
 ### 👩‍💻 Useful Resources
 
 - **Documentation:** Coming soon! We’ll provide detailed guides and API references as Chainsync approaches launch.
@@ -32,12 +24,6 @@ LAYER1 is an organization dedicated to simplifying and powering the future of We
 
 ---
 
-### 🍿 Fun Facts
-
-- Our team is powered by coffee, curiosity, and a passion for transparent data.
-- We believe in building tools that are as simple to use as they are powerful.
-
----
 
 > **LAYER1: Building for the community, one block at a time.**
 
